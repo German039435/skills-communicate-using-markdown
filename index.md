@@ -15,4 +15,5 @@ Lista de la compra
 - [ ] Patatas
 - [ ] Huevos
 - [ ] Doritos
+- [ ] Pan
 
