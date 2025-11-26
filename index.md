@@ -11,3 +11,8 @@
 
 System.out.println(frase);
 ```
+
+Lista de la compra
+- [ ] Patatas
+- [ ] Huevos
+- [ ] Doritos
